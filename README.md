@@ -187,7 +187,7 @@ The project showcases practical skills in Python, data visualization, data valid
 
 ## 👩‍💻 Author
 
-**Andressa Cruz Miranda**
+**Andressa Miranda**
 
 Computer Science | Data Analytics | Python | Statistical Analysis
 
